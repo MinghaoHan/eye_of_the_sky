@@ -1,5 +1,7 @@
 Project Name: SkyEye
 
+Work published on [EWSN 2021](https://dl.acm.org/doi/10.5555/3451271.3451294)
+
 Class
 1. Detection()
 2. steroMeasure()
